@@ -9,6 +9,7 @@
 # 然后弹出最小的，加入到答案的list
 # 然后把弹出元素所在的list的下一个元素push进入heap
 # 利用heapq数据结构
+#
 
 class Solution:
     # @param a list of ListNode
