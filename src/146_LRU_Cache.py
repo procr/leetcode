@@ -10,6 +10,9 @@ set: to maintain lru semantics, use linked list:
     update: advance to head
     set: insert to head
 
+also if you are using Java
+you cold use LinkedHashMap
+
 '''
 
 class Node(object):
